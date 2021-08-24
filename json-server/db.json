@@ -209,9 +209,14 @@
       "comment": "Nice Taste! Must give a try...",
       "date": "2020-06-06T03:15:14.413Z",
       "id": 24
+    },
+    {
+      "dishId": 2,
+      "author": "Giri",
+      "comment": "Very Nice",
+      "date": "2021-08-19T11:37:14.108Z",
+      "id": 25
     }
-   
-    
   ],
   "promotions": [
     {
@@ -262,7 +267,5 @@
       "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
     }
   ],
-  "feedback": [
-
-  ]
+  "feedback": []
 }
