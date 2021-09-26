@@ -216,6 +216,13 @@
       "comment": "Very Nice",
       "date": "2021-08-19T11:37:14.108Z",
       "id": 25
+    },
+    {
+      "dishId": 1,
+      "author": "Giri",
+      "comment": "Baagundi",
+      "date": "2021-08-24T07:21:59.375Z",
+      "id": 26
     }
   ],
   "promotions": [
